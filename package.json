@@ -1,0 +1,41 @@
+{
+  "name": "FirstHalfTask-WEB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "react-scripts build",
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oden6680/FirstHalfTask-WEB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oden6680/FirstHalfTask-WEB/issues"
+  },
+  "dependencies": {
+    "bulma": "^0.9.0",
+    "eact": "0.0.1-security",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "react-scripts": "^3.4.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import { Transition } from 'react-transition-group';
 
 const CheckBox1 = () =>{
   return (

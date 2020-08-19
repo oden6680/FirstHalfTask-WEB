@@ -166,9 +166,6 @@ const App = () => {
             <h1 class="title">
               日本の人口推移
             </h1>
-            <h2 class="subtitle">
-              Primary subtitle
-            </h2>
           </div>
         </div>
       </section>
